@@ -1,4 +1,5 @@
 # Python-generated files
+game_events.jsonl
 game_state.jsonl
 __pycache__/
 *.py[oc]
